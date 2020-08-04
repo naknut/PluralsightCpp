@@ -1,0 +1,10 @@
+C:/Users/mail/Development/PluralsightCpp/C++ 17 Beyond the Basics/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/mail/Development/PluralsightCpp/C++ 17 Beyond the Basics/build/CMakeFiles/Experimental.dir
+C:/Users/mail/Development/PluralsightCpp/C++ 17 Beyond the Basics/build/CMakeFiles/Continuous.dir
+C:/Users/mail/Development/PluralsightCpp/C++ 17 Beyond the Basics/build/CMakeFiles/Nightly.dir
+C:/Users/mail/Development/PluralsightCpp/C++ 17 Beyond the Basics/build/CMakeFiles/Resource.dir
+C:/Users/mail/Development/PluralsightCpp/C++ 17 Beyond the Basics/build/CMakeFiles/Containers.dir
+C:/Users/mail/Development/PluralsightCpp/C++ 17 Beyond the Basics/build/CMakeFiles/PACKAGE.dir
+C:/Users/mail/Development/PluralsightCpp/C++ 17 Beyond the Basics/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/mail/Development/PluralsightCpp/C++ 17 Beyond the Basics/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/mail/Development/PluralsightCpp/C++ 17 Beyond the Basics/build/CMakeFiles/ZERO_CHECK.dir
