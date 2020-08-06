@@ -1,2 +1,0 @@
-C:\Users\mail\Development\PluralsightCpp\C++ 17 Beyond the Basics\build\Debug\Resource.pdb
-C:\Users\mail\Development\PluralsightCpp\C++ 17 Beyond the Basics\build\Resource.dir\Debug\Resource.pdb
